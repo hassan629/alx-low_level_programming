@@ -1,0 +1,3 @@
+#!/bin/bash
+gcc -c $CFILE -o 'echoo $CFILE | cut -d. -f1 .o'
+
