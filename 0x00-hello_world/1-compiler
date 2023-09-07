@@ -1,3 +1,7 @@
 #!/bin/bash
+<<<<<<< HEAD
 gcc -c $CFILE -o 'echoo $CFILE | cut -d. -f1 .o'
 
+=======
+gcc -c $CFILE 
+>>>>>>> 6f0f1cc322cce2c337b64b6ebf00d154a02201df
